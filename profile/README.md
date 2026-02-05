@@ -1,4 +1,4 @@
-# WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture
+## WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture
 
 ![WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture](./assets/wa-header.jpg)
 

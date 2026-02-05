@@ -1,6 +1,6 @@
 ## WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture
 
-![WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture](./assets/knowledge-architecture.jpg)
+![WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture](./assets/Knowledge-Architecture.jpeg)
 
 **WISSENSARCHITEKTUR – Laboratory of Knowledge Architecture** at the **Dresden University of Technology** is an interdisciplinary think tank conducting research, design, and consultation at the intersection of design and the humanities.
 
